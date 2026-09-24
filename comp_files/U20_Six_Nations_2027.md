@@ -1,6 +1,6 @@
 ---
 title: "U20 Six Nations 2027"
-date: 2026-09-21 6:00:00 -0500
+date: 2026-09-24 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -17,12 +17,12 @@ aside:
 
 | Club     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| England  |         5 |            3.443 |                   35.749 |                           0.804 |                              |                         14.828 |
-| France   |         5 |            3.343 |                   32.218 |                           0.813 |                              |                         14.465 |
-| Ireland  |         5 |            2.933 |                   14.343 |                           0.974 |                              |                         13.016 |
-| Scotland |         5 |            2.988 |                   23.701 |                           0.773 |                              |                         12.967 |
-| Wales    |         5 |            1.019 |                  -48.026 |                           1.051 |                              |                          5.383 |
-| Italy    |         5 |            0.894 |                  -57.985 |                           0.894 |                              |                          4.65  |
+| England  |         5 |            3.493 |                   37.405 |                           0.782 |                              |                         15.058 |
+| France   |         5 |            3.298 |                   31.457 |                           0.8   |                              |                         14.308 |
+| Scotland |         5 |            2.965 |                   22.619 |                           0.776 |                              |                         12.89  |
+| Ireland  |         5 |            2.848 |                   12.96  |                           1.028 |                              |                         12.75  |
+| Wales    |         5 |            1.101 |                  -46.329 |                           1.001 |                              |                          5.613 |
+| Italy    |         5 |            0.891 |                  -58.112 |                           0.891 |                              |                          4.659 |
 
 
 
@@ -31,40 +31,18 @@ aside:
 
 | Club     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| England  |        5 |  3.443 |               35.749 |                 0.804 |                    |               14.828 |
-| France   |        5 |  3.343 |               32.218 |                 0.813 |                    |               14.465 |
-| Ireland  |        5 |  2.933 |               14.343 |                 0.974 |                    |               13.016 |
-| Scotland |        5 |  2.988 |               23.701 |                 0.773 |                    |               12.967 |
-| Wales    |        5 |  1.019 |              -48.026 |                 1.051 |                    |                5.383 |
-| Italy    |        5 |  0.894 |              -57.985 |                 0.894 |                    |                4.65  |
+| England  |        5 |  3.493 |               37.405 |                 0.782 |                    |               15.058 |
+| France   |        5 |  3.298 |               31.457 |                 0.8   |                    |               14.308 |
+| Scotland |        5 |  2.965 |               22.619 |                 0.776 |                    |               12.89  |
+| Ireland  |        5 |  2.848 |               12.96  |                 1.028 |                    |               12.75  |
+| Wales    |        5 |  1.101 |              -46.329 |                 1.001 |                    |                5.613 |
+| Italy    |        5 |  0.891 |              -58.112 |                 0.891 |                    |                4.659 |
 
 
 
 # Future Predictions
 
 ## Week 1
-
-### Ireland V England on 2027/02/05
-
-
-Average Margin: Ireland by 1.9
-
-<p float="left">
-<img src="plots/2027-02-05-Ireland_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-02-05-Ireland_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-02-05-Ireland_V_England_club_spreads.png" width="32%" />
-</p>
-
-### France V Wales on 2027/02/05
-
-
-Average Margin: France by 17.5
-
-<p float="left">
-<img src="plots/2027-02-05-France_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-02-05-France_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-02-05-France_V_Wales_club_spreads.png" width="32%" />
-</p>
 
 ### Scotland V Italy on 2027/02/05
 
@@ -77,12 +55,34 @@ Average Margin: Scotland by 18.4
 <img src="plots/2027-02-05-Scotland_V_Italy_club_spreads.png" width="32%" />
 </p>
 
+### Ireland V England on 2027/02/05
+
+
+Average Margin: Ireland by 1.7
+
+<p float="left">
+<img src="plots/2027-02-05-Ireland_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-02-05-Ireland_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-02-05-Ireland_V_England_club_spreads.png" width="32%" />
+</p>
+
+### France V Wales on 2027/02/05
+
+
+Average Margin: France by 18.5
+
+<p float="left">
+<img src="plots/2027-02-05-France_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-02-05-France_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-02-05-France_V_Wales_club_spreads.png" width="32%" />
+</p>
+
 ## Week 2
 
 ### England V France on 2027/02/12
 
 
-Average Margin: England by 2.8
+Average Margin: England by 4.1
 
 <p float="left">
 <img src="plots/2027-02-12-England_V_France_club_performances.png" width="32%" />
@@ -90,21 +90,10 @@ Average Margin: England by 2.8
 <img src="plots/2027-02-12-England_V_France_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V Wales on 2027/02/12
-
-
-Average Margin: Scotland by 15.2
-
-<p float="left">
-<img src="plots/2027-02-12-Scotland_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-02-12-Scotland_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-02-12-Scotland_V_Wales_club_spreads.png" width="32%" />
-</p>
-
 ### Italy V Ireland on 2027/02/12
 
 
-Average Margin: Ireland by 9.6
+Average Margin: Ireland by 8.7
 
 <p float="left">
 <img src="plots/2027-02-12-Italy_V_Ireland_club_performances.png" width="32%" />
@@ -112,7 +101,40 @@ Average Margin: Ireland by 9.6
 <img src="plots/2027-02-12-Italy_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
+### Scotland V Wales on 2027/02/12
+
+
+Average Margin: Scotland by 14.4
+
+<p float="left">
+<img src="plots/2027-02-12-Scotland_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-02-12-Scotland_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-02-12-Scotland_V_Wales_club_spreads.png" width="32%" />
+</p>
+
 ## Week 3
+
+### Wales V Ireland on 2027/02/19
+
+
+Average Margin: Ireland by 5.8
+
+<p float="left">
+<img src="plots/2027-02-19-Wales_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-02-19-Wales_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-02-19-Wales_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### England V Italy on 2027/02/19
+
+
+Average Margin: England by 20.9
+
+<p float="left">
+<img src="plots/2027-02-19-England_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-02-19-England_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-02-19-England_V_Italy_club_spreads.png" width="32%" />
+</p>
 
 ### France V Scotland on 2027/02/19
 
@@ -125,34 +147,23 @@ Average Margin: France by 7.6
 <img src="plots/2027-02-19-France_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### England V Italy on 2027/02/19
-
-
-Average Margin: England by 20.4
-
-<p float="left">
-<img src="plots/2027-02-19-England_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-02-19-England_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-02-19-England_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Ireland on 2027/02/19
-
-
-Average Margin: Ireland by 6.3
-
-<p float="left">
-<img src="plots/2027-02-19-Wales_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-02-19-Wales_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-02-19-Wales_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
 ## Week 4
+
+### Wales V England on 2027/03/05
+
+
+Average Margin: England by 7.1
+
+<p float="left">
+<img src="plots/2027-03-05-Wales_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-03-05-Wales_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-03-05-Wales_V_England_club_spreads.png" width="32%" />
+</p>
 
 ### Italy V France on 2027/03/05
 
 
-Average Margin: France by 11.1
+Average Margin: France by 10.7
 
 <p float="left">
 <img src="plots/2027-03-05-Italy_V_France_club_performances.png" width="32%" />
@@ -163,7 +174,7 @@ Average Margin: France by 11.1
 ### Scotland V Ireland on 2027/03/05
 
 
-Average Margin: Scotland by 4.7
+Average Margin: Scotland by 4.5
 
 <p float="left">
 <img src="plots/2027-03-05-Scotland_V_Ireland_club_performances.png" width="32%" />
@@ -171,23 +182,12 @@ Average Margin: Scotland by 4.7
 <img src="plots/2027-03-05-Scotland_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### Wales V England on 2027/03/05
-
-
-Average Margin: England by 7.6
-
-<p float="left">
-<img src="plots/2027-03-05-Wales_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-03-05-Wales_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-03-05-Wales_V_England_club_spreads.png" width="32%" />
-</p>
-
 ## Week 5
 
 ### England V Scotland on 2027/03/12
 
 
-Average Margin: England by 7.0
+Average Margin: England by 7.1
 
 <p float="left">
 <img src="plots/2027-03-12-England_V_Scotland_club_performances.png" width="32%" />
@@ -198,7 +198,7 @@ Average Margin: England by 7.0
 ### Italy V Wales on 2027/03/12
 
 
-Average Margin: Italy by 1.5
+Average Margin: Italy by 0.5
 
 <p float="left">
 <img src="plots/2027-03-12-Italy_V_Wales_club_performances.png" width="32%" />
@@ -209,7 +209,7 @@ Average Margin: Italy by 1.5
 ### Ireland V France on 2027/03/12
 
 
-Average Margin: Ireland by 1.2
+Average Margin: Ireland by 1.3
 
 <p float="left">
 <img src="plots/2027-03-12-Ireland_V_France_club_performances.png" width="32%" />

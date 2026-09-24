@@ -9,9 +9,9 @@ categories: rugby "WXV Global Series 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted England Women to win by 19.72, and Canada Women won by 0.0. That's an absolute error of 19.7 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 27.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted England Women to win by 20.46, and Canada Women won by 0.0. That's an absolute error of 20.5 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 25.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 52.0. That's an absolute error of 4.5 compared to a six month average of 14.4. This prediction was more accurate than 79.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 52.0. That's an absolute error of 5.5 compared to a six month average of 14.3. This prediction was more accurate than 74.8% of my recent predictions.
 ## Projected Performances - Club Model
 
 

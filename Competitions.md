@@ -528,7 +528,7 @@ key: page-recents
 ## WXV Global Series
 
 
-[2026](comp_files/WXV_Global_Series_2026) - Prediction Accuracy: 66.7% 
+[2026](comp_files/WXV_Global_Series_2026) - Prediction Accuracy: 60.0% 
 ## WXV Global Series Challenger
 
 
@@ -552,7 +552,7 @@ key: page-recents
 ## Nations Championship
 
 
-[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 73.0% 
+[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 71.4% 
 # Top Flight Competitions
 
 ## European Rugby Champions Cup
@@ -664,7 +664,7 @@ key: page-recents
 ## Top 14
 
 
-[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 83.9% 
+[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 79.2% 
 
 [25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.3% 
 
@@ -1012,7 +1012,7 @@ key: page-recents
 ## Pro D2
 
 
-[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 71.7% 
+[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 77.1% 
 
 [25/26](comp_files/Pro_D2_2526) - Prediction Accuracy: 74.6% 
 
@@ -1102,7 +1102,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026) - Prediction Accuracy: 64.3% 
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 62.9% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1176,7 +1176,7 @@ key: page-recents
 ## RFU Championship
 
 
-[26/27](comp_files/RFU_Championship_2627) - Prediction Accuracy: 64.3% 
+[26/27](comp_files/RFU_Championship_2627) - Prediction Accuracy: 85.7% 
 
 [25/26](comp_files/RFU_Championship_2526) - Prediction Accuracy: 72.3% 
 
@@ -1268,7 +1268,7 @@ key: page-recents
 ## Nationale
 
 
-[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 76.8% 
+[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 72.3% 
 
 [25/26](comp_files/Nationale_2526) - Prediction Accuracy: 74.7% 
 

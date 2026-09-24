@@ -12,7 +12,7 @@ key: page-projections
 
 Competition Accuracy: 8 of 12 (66.67%)
 
-Competition Error: 10.9 points per match
+Competition Error: 10.89 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
@@ -30,9 +30,9 @@ Competition Accuracy: 5 of 9 (55.56%)
 
 Competition Error: 22.61 points per match
 
-Last Two Week Accuracy: 5 of 9 (55.56%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 22.61 points per match
+Last Two Week Error: 25.61 points per match
 
 [2026/09/26 - England Women V New Zealand Women](projections/2026-09-26-EnglandWomen_V_NewZealandWomen)
 
@@ -54,9 +54,9 @@ Competition Accuracy: 5 of 6 (83.33%)
 
 Competition Error: 19.76 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 19.76 points per match
+Last Two Week Error: 20.04 points per match
 
 [2026/09/26 - Fiji Women V Netherlands Women](projections/2026-09-26-FijiWomen_V_NetherlandsWomen)
 
@@ -104,13 +104,13 @@ Last Two Week Error: 19.76 points per match
 
 [In depth model review and projections for Top 14 26/27](comp_files/Top_14_2627)
 
-Competition Accuracy: 15 of 21 (71.43%)
+Competition Accuracy: 16 of 21 (76.19%)
 
-Competition Error: 15.78 points per match
+Competition Error: 15.42 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 17.13 points per match
+Last Two Week Error: 15.85 points per match
 
 [2026/10/09 - Perpignan V Vannes](projections/2026-10-09-Perpignan_V_Vannes)
 
@@ -132,7 +132,7 @@ Last Two Week Error: 17.13 points per match
 
 [2026/09/26 - Pau V La Rochelle](projections/2026-09-26-Pau_V_LaRochelle)
 
-[2026/09/26 - Perpignan V Bordeaux Begles](projections/2026-09-26-Perpignan_V_BordeauxBegles)
+[2026/09/26 - Perpignan V Bordeaux-Begles](projections/2026-09-26-Perpignan_V_BordeauxBegles)
 
 [2026/09/26 - Racing 92 V Bayonne](projections/2026-09-26-Racing92_V_Bayonne)
 
@@ -212,15 +212,13 @@ Last Two Week Error: 17.13 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 35 of 56 (62.5%)
+Competition Accuracy: 35 of 57 (61.4%)
 
-Competition Error: 15.08 points per match
+Competition Error: 15.16 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 14.66 points per match
-
-[2026/09/24 - Tasman V Bay of Plenty](projections/2026-09-24-Tasman_V_BayofPlenty)
+Last Two Week Error: 12.69 points per match
 
 [2026/09/25 - Auckland V Manawatu](projections/2026-09-25-Auckland_V_Manawatu)
 
@@ -247,32 +245,6 @@ Last Two Week Error: 14.66 points per match
 [2026/10/03 - Waikato V Tasman](projections/2026-10-03-Waikato_V_Tasman)
 
 [2026/10/04 - Bay of Plenty V North Harbour](projections/2026-10-04-BayofPlenty_V_NorthHarbour)
-## RFU Championship
-
-
-[In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
-
-Competition Accuracy: 5 of 7 (71.43%)
-
-Competition Error: 14.57 points per match
-
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 14.57 points per match
-
-[2026/09/26 - Worcester Warriors V Rotherham Titans](projections/2026-09-26-WorcesterWarriors_V_RotherhamTitans)
-
-[2026/09/27 - Ealing Trailfinders V Richmond](projections/2026-09-27-EalingTrailfinders_V_Richmond)
-
-[2026/09/27 - Doncaster V Hartpury College RFC](projections/2026-09-27-Doncaster_V_HartpuryCollege)
-
-[2026/09/26 - Coventry V Cornish Pirates](projections/2026-09-26-Coventry_V_CornishPirates)
-
-[2026/09/26 - Bedford V Chinnor](projections/2026-09-26-Bedford_V_Chinnor)
-
-[2026/09/25 - Blackheath V Caldy](projections/2026-09-25-Blackheath_V_Caldy)
-
-[2026/09/26 - Ampthill V Nottingham](projections/2026-09-26-Ampthill_V_Nottingham)
 ## URBA Top 14
 
 
@@ -280,15 +252,9 @@ Last Two Week Error: 14.57 points per match
 
 Competition Accuracy: 82 of 133 (61.65%)
 
-Competition Error: 13.59 points per match
+Competition Error: 13.58 points per match
 
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 11.94 points per match
-
-[2026/09/26 - Atlético del Rosario V Newman](projections/2026-09-26-AtleticodelRosario_V_Newman)
-
-[2026/09/26 - CASI V Belgrano AC](projections/2026-09-26-CASI_V_BelgranoAC)
+[2026/10/03 - Champagnat V Regatas Bella Vista](projections/2026-10-03-Champagnat_V_RegatasBellaVista)
 
 [2026/09/26 - CUBA V Buenos Aires](projections/2026-09-26-CUBA_V_BuenosAires)
 
@@ -305,8 +271,6 @@ Last Two Week Error: 11.94 points per match
 [2026/10/03 - Belgrano AC V CUBA](projections/2026-10-03-BelgranoAC_V_CUBA)
 
 [2026/10/03 - Buenos Aires V Los Matreros](projections/2026-10-03-BuenosAires_V_LosMatreros)
-
-[2026/10/03 - Champagnat V Regatas Bella Vista](projections/2026-10-03-Champagnat_V_RegatasBellaVista)
 
 [2026/10/03 - Hindu V La Plata](projections/2026-10-03-Hindu_V_LaPlata)
 
@@ -326,30 +290,48 @@ Last Two Week Error: 11.94 points per match
 
 [2026/10/10 - Los Tilos V Alumni](projections/2026-10-10-LosTilos_V_Alumni)
 
+[2026/09/26 - CASI V Belgrano AC](projections/2026-09-26-CASI_V_BelgranoAC)
+
+[2026/09/26 - Atlético del Rosario V Newman](projections/2026-09-26-AtleticodelRosario_V_Newman)
+
 [2026/10/10 - Regatas Bella Vista V Hindu](projections/2026-10-10-RegatasBellaVista_V_Hindu)
+## RFU Championship
+
+
+[In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
+
+Competition Accuracy: 5 of 7 (71.43%)
+
+Competition Error: 14.57 points per match
+
+Last Two Week Accuracy: 5 of 7 (71.43%)
+
+Last Two Week Error: 14.57 points per match
+
+[2026/09/27 - Ealing Trailfinders V Richmond](projections/2026-09-27-EalingTrailfinders_V_Richmond)
+
+[2026/09/27 - Doncaster V Hartpury College RFC](projections/2026-09-27-Doncaster_V_HartpuryCollege)
+
+[2026/09/25 - Blackheath V Caldy](projections/2026-09-25-Blackheath_V_Caldy)
+
+[2026/09/26 - Ampthill V Nottingham](projections/2026-09-26-Ampthill_V_Nottingham)
+
+[2026/09/26 - Bedford V Chinnor](projections/2026-09-26-Bedford_V_Chinnor)
+
+[2026/09/26 - Coventry V Cornish Pirates](projections/2026-09-26-Coventry_V_CornishPirates)
+
+[2026/09/26 - Worcester Warriors V Rotherham Titans](projections/2026-09-26-WorcesterWarriors_V_RotherhamTitans)
 ## Pro D2
 
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
-Competition Accuracy: 19 of 25 (76.0%)
+Competition Accuracy: 21 of 32 (65.62%)
 
-Competition Error: 14.57 points per match
+Competition Error: 14.25 points per match
 
-Last Two Week Accuracy: 8 of 9 (88.89%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 10.51 points per match
+Last Two Week Error: 11.52 points per match
 
-[2026/09/18 - Agen V Oyonnax](projections/2026-09-18-Agen_V_Oyonnax)
-
-[2026/09/18 - Colomiers V Dax](projections/2026-09-18-Colomiers_V_Dax)
-
-[2026/09/18 - Narbonne V Soyaux-Angouleme](projections/2026-09-18-Narbonne_V_Soyaux-Angouleme)
-
-[2026/09/18 - Nice V Grenoble](projections/2026-09-18-Nice_V_Grenoble)
-
-[2026/09/18 - US Montauban V Beziers](projections/2026-09-18-USMontauban_V_Beziers)
-
-[2026/09/18 - USON Nevers V Biarritz Olympique](projections/2026-09-18-USONNevers_V_BiarritzOlympique)
-
-[2026/09/18 - Valence Romans Drome Rugby V Provence Rugby](projections/2026-09-18-ValenceRomansDromeRugby_V_ProvenceRugby)
+[2026/09/24 - Brive V Colomiers](projections/2026-09-24-Brive_V_Colomiers)
