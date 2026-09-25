@@ -31,12 +31,12 @@ aside:
 
 | Club              |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Hong Kong Women   |         1 |            0.78  |                   16.596 |                           0.074 |                              |                          3.218 |
-| Spain Women       |         1 |            0.744 |                   11.286 |                           0.113 |                              |                          3.123 |
-| Fiji Women        |         1 |            0.552 |                    2.497 |                           0.152 |                              |                          2.394 |
-| Netherlands Women |         1 |            0.431 |                   -2.497 |                           0.165 |                              |                          1.923 |
-| Brazil Women      |         1 |            0.239 |                  -11.286 |                           0.153 |                              |                          1.143 |
-| Samoa Women       |         1 |            0.208 |                  -16.596 |                           0.103 |                              |                          0.959 |
+| Hong Kong Women   |         1 |            0.754 |                   15.162 |                           0.088 |                              |                          3.122 |
+| Spain Women       |         1 |            0.737 |                   10.422 |                           0.11  |                              |                          3.1   |
+| Fiji Women        |         1 |            0.526 |                    1.864 |                           0.165 |                              |                          2.323 |
+| Netherlands Women |         1 |            0.447 |                   -1.864 |                           0.156 |                              |                          1.998 |
+| Brazil Women      |         1 |            0.242 |                  -10.422 |                           0.155 |                              |                          1.165 |
+| Samoa Women       |         1 |            0.237 |                  -15.162 |                           0.104 |                              |                          1.07  |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club              |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Fiji Women        |        3 |  2.552 |               36.497 |                 0.152 |                    |               10.394 |
-| Netherlands Women |        3 |  2.431 |               69.503 |                 0.165 |                    |                9.923 |
-| Spain Women       |        3 |  1.744 |               45.286 |                 1.113 |                    |                8.123 |
-| Hong Kong Women   |        3 |  1.78  |               -6.404 |                 0.074 |                    |                7.218 |
-| Brazil Women      |        3 |  0.239 |              -18.286 |                 2.153 |                    |                3.143 |
-| Samoa Women       |        3 |  0.208 |             -126.596 |                 0.103 |                    |                0.959 |
+| Fiji Women        |        3 |  2.526 |               35.864 |                 0.165 |                    |               10.323 |
+| Netherlands Women |        3 |  2.447 |               70.136 |                 0.156 |                    |                9.998 |
+| Spain Women       |        3 |  1.737 |               44.422 |                 1.11  |                    |                8.1   |
+| Hong Kong Women   |        3 |  1.754 |               -7.838 |                 0.088 |                    |                7.122 |
+| Brazil Women      |        3 |  0.242 |              -17.422 |                 2.155 |                    |                3.165 |
+| Samoa Women       |        3 |  0.237 |             -125.162 |                 0.104 |                    |                1.07  |
 
 
 
@@ -59,7 +59,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 88.9% | 18.0 |
+| Club Level | 88.9% | 15.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -68,21 +68,10 @@ aside:
 
 ## Week 3
 
-### Fiji Women V Netherlands Women on 2026/09/26
-
-
-Average Margin: Fiji Women by 2.5
-
-<p float="left">
-<img src="plots/2026-09-26-FijiWomen_V_NetherlandsWomen_club_performances.png" width="32%" />
-<img src="plots/2026-09-26-FijiWomen_V_NetherlandsWomen_club_resultbar.png" width="32%" />
-<img src="plots/2026-09-26-FijiWomen_V_NetherlandsWomen_club_spreads.png" width="32%" />
-</p>
-
 ### Hong Kong Women V Samoa Women on 2026/09/26
 
 
-Average Margin: Hong Kong Women by 16.6
+Average Margin: Hong Kong Women by 15.2
 
 <p float="left">
 <img src="plots/2026-09-26-HongKongWomen_V_SamoaWomen_club_performances.png" width="32%" />
@@ -90,10 +79,21 @@ Average Margin: Hong Kong Women by 16.6
 <img src="plots/2026-09-26-HongKongWomen_V_SamoaWomen_club_spreads.png" width="32%" />
 </p>
 
+### Fiji Women V Netherlands Women on 2026/09/26
+
+
+Average Margin: Fiji Women by 1.9
+
+<p float="left">
+<img src="plots/2026-09-26-FijiWomen_V_NetherlandsWomen_club_performances.png" width="32%" />
+<img src="plots/2026-09-26-FijiWomen_V_NetherlandsWomen_club_resultbar.png" width="32%" />
+<img src="plots/2026-09-26-FijiWomen_V_NetherlandsWomen_club_spreads.png" width="32%" />
+</p>
+
 ### Spain Women V Brazil Women on 2026/09/26
 
 
-Average Margin: Spain Women by 11.3
+Average Margin: Spain Women by 10.4
 
 <p float="left">
 <img src="plots/2026-09-26-SpainWomen_V_BrazilWomen_club_performances.png" width="32%" />

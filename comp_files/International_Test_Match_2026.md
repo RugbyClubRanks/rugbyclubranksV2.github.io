@@ -19,6 +19,7 @@ aside:
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
 | Australia                |        4 |      3 |                   48 |                     0 |                  3 |                   17 |
 | Japan                    |        3 |      1 |                    3 |                     1 |                  2 |                    7 |
+| New Zealand              |        1 |      1 |                    6 |                     0 |                  1 |                    5 |
 | Argentina                |        3 |      0 |                  -13 |                     2 |                  1 |                    5 |
 | France A                 |        1 |      1 |                   16 |                     0 |                    |                    4 |
 | Poland                   |        1 |      1 |                   14 |                     0 |                    |                    4 |
@@ -27,6 +28,7 @@ aside:
 | South Africa             |        1 |      1 |                    7 |                     0 |                    |                    4 |
 | United States of America |        1 |      1 |                    1 |                     0 |                    |                    4 |
 | Mexico                   |        2 |      1 |                  -11 |                     0 |                    |                    4 |
+| Lions                    |        1 |      0 |                   -6 |                     1 |                  1 |                    2 |
 | Argentina A              |        1 |      0 |                   -1 |                     1 |                    |                    1 |
 | Japan A                  |        1 |      0 |                   -7 |                     1 |                    |                    1 |
 | Croatia                  |        1 |      0 |                  -16 |                     0 |                    |                    0 |
@@ -40,15 +42,15 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| New Zealand  |         2 |            1.786 |                   25.865 |                           0.141 |                              |                          7.381 |
-| Paraguay     |         1 |            0.882 |                   18.93  |                           0.055 |                              |                          3.601 |
-| South Africa |         1 |            0.862 |                   10.111 |                           0.085 |                              |                          3.597 |
-| Japan        |         1 |            0.863 |                   11.088 |                           0.094 |                              |                          3.582 |
-| Belgium      |         1 |            0.78  |                   10.573 |                           0.121 |                              |                          3.285 |
-| Australia    |         3 |            0.272 |                  -35.976 |                           0.617 |                              |                          1.865 |
-| Hong Kong    |         1 |            0.198 |                  -10.573 |                           0.175 |                              |                          1.011 |
-| Fiji         |         1 |            0.119 |                  -11.088 |                           0.222 |                              |                          0.734 |
-| Brazil       |         1 |            0.109 |                  -18.93  |                           0.112 |                              |                          0.566 |
+| New Zealand  |         2 |            1.715 |                   21.609 |                           0.182 |                              |                          7.158 |
+| Paraguay     |         1 |            0.88  |                   19.226 |                           0.064 |                              |                          3.604 |
+| Japan        |         1 |            0.863 |                   11.192 |                           0.083 |                              |                          3.585 |
+| South Africa |         1 |            0.806 |                    8.327 |                           0.127 |                              |                          3.429 |
+| Belgium      |         1 |            0.776 |                   10.202 |                           0.101 |                              |                          3.247 |
+| Australia    |         3 |            0.382 |                  -29.936 |                           0.702 |                              |                          2.424 |
+| Hong Kong    |         1 |            0.203 |                  -10.202 |                           0.177 |                              |                          1.031 |
+| Fiji         |         1 |            0.112 |                  -11.192 |                           0.226 |                              |                          0.724 |
+| Brazil       |         1 |            0.11  |                  -19.226 |                           0.113 |                              |                          0.573 |
 
 
 
@@ -57,10 +59,10 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Australia                |        7 |  3.272 |               12.024 |                 0.617 |                  3 |               18.865 |
-| Japan                    |        4 |  1.863 |               14.088 |                 1.094 |                  2 |               10.582 |
-| South Africa             |        2 |  1.862 |               17.111 |                 0.085 |                    |                7.597 |
-| New Zealand              |        2 |  1.786 |               25.865 |                 0.141 |                    |                7.381 |
+| Australia                |        7 |  3.382 |               18.064 |                 0.702 |                  3 |               19.424 |
+| New Zealand              |        3 |  2.715 |               27.609 |                 0.182 |                  1 |               12.158 |
+| Japan                    |        4 |  1.863 |               14.192 |                 1.083 |                  2 |               10.585 |
+| South Africa             |        2 |  1.806 |               15.327 |                 0.127 |                    |                7.429 |
 | Argentina                |        3 |  0     |              -13     |                 2     |                  1 |                5     |
 | France A                 |        1 |  1     |               16     |                 0     |                    |                4     |
 | Poland                   |        1 |  1     |               14     |                 0     |                    |                4     |
@@ -68,13 +70,14 @@ aside:
 | Maori All Blacks         |        1 |  1     |                7     |                 0     |                    |                4     |
 | United States of America |        1 |  1     |                1     |                 0     |                    |                4     |
 | Mexico                   |        2 |  1     |              -11     |                 0     |                    |                4     |
-| Paraguay                 |        1 |  0.882 |               18.93  |                 0.055 |                    |                3.601 |
-| Belgium                  |        1 |  0.78  |               10.573 |                 0.121 |                    |                3.285 |
-| Hong Kong                |        1 |  0.198 |              -10.573 |                 0.175 |                    |                1.011 |
+| Paraguay                 |        1 |  0.88  |               19.226 |                 0.064 |                    |                3.604 |
+| Belgium                  |        1 |  0.776 |               10.202 |                 0.101 |                    |                3.247 |
+| Lions                    |        1 |  0     |               -6     |                 1     |                  1 |                2     |
+| Hong Kong                |        1 |  0.203 |              -10.202 |                 0.177 |                    |                1.031 |
 | Argentina A              |        1 |  0     |               -1     |                 1     |                    |                1     |
 | Japan A                  |        1 |  0     |               -7     |                 1     |                    |                1     |
-| Fiji                     |        1 |  0.119 |              -11.088 |                 0.222 |                    |                0.734 |
-| Brazil                   |        1 |  0.109 |              -18.93  |                 0.112 |                    |                0.566 |
+| Fiji                     |        1 |  0.112 |              -11.192 |                 0.226 |                    |                0.724 |
+| Brazil                   |        1 |  0.11  |              -19.226 |                 0.113 |                    |                0.573 |
 | Croatia                  |        1 |  0     |              -16     |                 0     |                    |                0     |
 | England A                |        1 |  0     |              -16     |                 0     |                    |                0     |
 | Canada                   |        1 |  0     |              -45     |                 0     |                    |                0     |
@@ -86,7 +89,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 11.0 |
+| Club Level | 78.9% | 8.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -98,7 +101,7 @@ aside:
 ### Australia V South Africa on 2026/09/27
 
 
-Average Margin: South Africa by 10.1
+Average Margin: South Africa by 8.3
 
 <p float="left">
 <img src="plots/2026-09-27-Australia_V_SouthAfrica_club_performances.png" width="32%" />
@@ -111,7 +114,7 @@ Average Margin: South Africa by 10.1
 ### New Zealand V Australia on 2026/10/10
 
 
-Average Margin: New Zealand by 17.0
+Average Margin: New Zealand by 14.9
 
 <p float="left">
 <img src="plots/2026-10-10-NewZealand_V_Australia_club_performances.png" width="32%" />
@@ -124,7 +127,7 @@ Average Margin: New Zealand by 17.0
 ### Australia V New Zealand on 2026/10/17
 
 
-Average Margin: New Zealand by 8.9
+Average Margin: New Zealand by 6.7
 
 <p float="left">
 <img src="plots/2026-10-17-Australia_V_NewZealand_club_performances.png" width="32%" />
@@ -137,7 +140,7 @@ Average Margin: New Zealand by 8.9
 ### Japan V Fiji on 2026/10/24
 
 
-Average Margin: Japan by 11.1
+Average Margin: Japan by 11.2
 
 <p float="left">
 <img src="plots/2026-10-24-Japan_V_Fiji_club_performances.png" width="32%" />
@@ -150,7 +153,7 @@ Average Margin: Japan by 11.1
 ### Belgium V Hong Kong on 2026/10/31
 
 
-Average Margin: Belgium by 10.6
+Average Margin: Belgium by 10.2
 
 <p float="left">
 <img src="plots/2026-10-31-Belgium_V_HongKong_club_performances.png" width="32%" />
@@ -163,7 +166,7 @@ Average Margin: Belgium by 10.6
 ### Paraguay V Brazil on 2026/11/13
 
 
-Average Margin: Paraguay by 18.9
+Average Margin: Paraguay by 19.2
 
 <p float="left">
 <img src="plots/2026-11-13-Paraguay_V_Brazil_club_performances.png" width="32%" />
