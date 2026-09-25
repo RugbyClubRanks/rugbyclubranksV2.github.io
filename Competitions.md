@@ -532,7 +532,7 @@ key: page-recents
 ## WXV Global Series Challenger
 
 
-[2026](comp_files/WXV_Global_Series_Challenger_2026) - Prediction Accuracy: 88.9% 
+[2026](comp_files/WXV_Global_Series_Challenger_2026) - Prediction Accuracy: 77.8% 
 ## Rugby World Cup 2027 Final Qualification Tournament
 
 
@@ -540,7 +540,7 @@ key: page-recents
 ## Nations Cup
 
 
-[2026](comp_files/Nations_Cup_2026) - Prediction Accuracy: 61.1% 
+[2026](comp_files/Nations_Cup_2026) - Prediction Accuracy: 58.3% 
 ## U20 Trophy
 
 
@@ -552,7 +552,7 @@ key: page-recents
 ## Nations Championship
 
 
-[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 73.4% 
+[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 75.0% 
 # Top Flight Competitions
 
 ## European Rugby Champions Cup
@@ -664,7 +664,7 @@ key: page-recents
 ## Top 14
 
 
-[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 83.0% 
+[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 83.5% 
 
 [25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.3% 
 
@@ -1014,7 +1014,7 @@ key: page-recents
 ## Pro D2
 
 
-[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 75.8% 
+[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 79.2% 
 
 [25/26](comp_files/Pro_D2_2526) - Prediction Accuracy: 74.6% 
 
@@ -1104,7 +1104,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026) - Prediction Accuracy: 65.7% 
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 62.9% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1178,7 +1178,7 @@ key: page-recents
 ## RFU Championship
 
 
-[26/27](comp_files/RFU_Championship_2627) - Prediction Accuracy: 57.1% 
+[26/27](comp_files/RFU_Championship_2627) - Prediction Accuracy: 85.7% 
 
 [25/26](comp_files/RFU_Championship_2526) - Prediction Accuracy: 72.3% 
 
@@ -1270,7 +1270,7 @@ key: page-recents
 ## Nationale
 
 
-[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 80.2% 
+[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 82.4% 
 
 [25/26](comp_files/Nationale_2526) - Prediction Accuracy: 74.7% 
 

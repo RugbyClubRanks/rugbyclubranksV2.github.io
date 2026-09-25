@@ -12,7 +12,7 @@ key: page-recents
 
 Competition Accuracy: 9 of 13 (69.23%)
 
-Competition Error: 9.14 points per match
+Competition Error: 9.13 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
@@ -42,11 +42,11 @@ Last Two Week Error: 8.41 points per match
 
 Competition Accuracy: 5 of 9 (55.56%)
 
-Competition Error: 22.63 points per match
+Competition Error: 22.61 points per match
 
 Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 25.64 points per match
+Last Two Week Error: 25.61 points per match
 
 [2026/09/18 - Wales Women V South Africa Women, 50.0 to 19.0](reviews/2026-09-18-WalesWomen_V_SouthAfricaWomen)
 
@@ -66,11 +66,11 @@ Last Two Week Error: 25.64 points per match
 
 Competition Accuracy: 5 of 6 (83.33%)
 
-Competition Error: 19.88 points per match
+Competition Error: 19.76 points per match
 
 Last Two Week Accuracy: 3 of 3 (100.0%)
 
-Last Two Week Error: 20.16 points per match
+Last Two Week Error: 20.04 points per match
 
 [2026/09/19 - Brazil Women V Netherlands Women, 15.0 to 17.0](reviews/2026-09-19-BrazilWomen_V_NetherlandsWomen)
 
@@ -90,7 +90,7 @@ Competition Error: 15.42 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 15.85 points per match
+Last Two Week Error: 15.86 points per match
 
 [2026/09/19 - Bayonne V Clermont Auvergne, 46.0 to 24.0](reviews/2026-09-19-Bayonne_V_ClermontAuvergne)
 
@@ -112,17 +112,19 @@ Last Two Week Error: 15.85 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 35 of 57 (61.4%)
+Competition Accuracy: 35 of 58 (60.34%)
 
-Competition Error: 15.16 points per match
+Competition Error: 15.17 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 4 of 9 (44.44%)
 
-Last Two Week Error: 12.69 points per match
+Last Two Week Error: 13.03 points per match
 
 [2026/09/17 - Counties Manukau V Otago, 21.0 to 50.0](reviews/2026-09-17-CountiesManukau_V_Otago)
 
 [2026/09/18 - Tasman V Auckland, 22.0 to 24.0](reviews/2026-09-18-Tasman_V_Auckland)
+
+[2026/09/25 - Auckland V Manawatu, 34.0 to 40.0](reviews/2026-09-25-Auckland_V_Manawatu)
 
 [2026/09/24 - Tasman V Bay of Plenty, 45.0 to 26.0](reviews/2026-09-24-Tasman_V_BayofPlenty)
 
@@ -140,15 +142,17 @@ Last Two Week Error: 12.69 points per match
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
-Competition Accuracy: 21 of 32 (65.62%)
+Competition Accuracy: 22 of 33 (66.67%)
 
-Competition Error: 14.27 points per match
+Competition Error: 14.1 points per match
 
-Last Two Week Accuracy: 3 of 8 (37.5%)
+Last Two Week Accuracy: 4 of 9 (44.44%)
 
-Last Two Week Error: 11.57 points per match
+Last Two Week Error: 11.25 points per match
 
 [2026/09/18 - Nice V Grenoble, 33.0 to 37.0](reviews/2026-09-18-Nice_V_Grenoble)
+
+[2026/09/24 - Brive V Colomiers, 41.0 to 26.0](reviews/2026-09-24-Brive_V_Colomiers)
 
 [2026/09/18 - Valence Romans Drome Rugby V Provence Rugby, 23.0 to 27.0](reviews/2026-09-18-ValenceRomansDromeRugby_V_ProvenceRugby)
 
