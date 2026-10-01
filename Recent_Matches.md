@@ -14,9 +14,9 @@ Competition Accuracy: 9 of 14 (64.29%)
 
 Competition Error: 9.29 points per match
 
-Last Two Week Accuracy: 0 of 2 (0.0%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 12.71 points per match
+Last Two Week Error: 11.33 points per match
 
 [2026/09/27 - Australia V South Africa, 42.0 to 38.0](reviews/2026-09-27-Australia_V_SouthAfrica)
 ## WXV Global Series
@@ -28,9 +28,9 @@ Competition Accuracy: 9 of 15 (60.0%)
 
 Competition Error: 20.33 points per match
 
-Last Two Week Accuracy: 7 of 12 (58.33%)
+Last Two Week Accuracy: 4 of 6 (66.67%)
 
-Last Two Week Error: 21.26 points per match
+Last Two Week Error: 16.92 points per match
 
 [2026/09/26 - England Women V New Zealand Women, 26.0 to 19.0](reviews/2026-09-26-EnglandWomen_V_NewZealandWomen)
 
@@ -50,11 +50,11 @@ Last Two Week Error: 21.26 points per match
 
 Competition Accuracy: 5 of 8 (62.5%)
 
-Competition Error: 19.47 points per match
+Competition Error: 19.34 points per match
 
-Last Two Week Accuracy: 3 of 5 (60.0%)
+Last Two Week Accuracy: 0 of 2 (0.0%)
 
-Last Two Week Error: 19.4 points per match
+Last Two Week Error: 18.07 points per match
 
 [2026/09/26 - Fiji Women V Netherlands Women, 20.0 to 17.0](reviews/2026-09-26-FijiWomen_V_NetherlandsWomen)
 
@@ -120,9 +120,9 @@ Competition Accuracy: 21 of 28 (75.0%)
 
 Competition Error: 14.77 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 14.34 points per match
+Last Two Week Error: 12.82 points per match
 
 [2026/09/27 - Stade Toulousain V Montpellier Herault, 40.0 to 18.0](reviews/2026-09-27-StadeToulousain_V_MontpellierHerault)
 
@@ -144,27 +144,29 @@ Last Two Week Error: 14.34 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 37 of 63 (58.73%)
+Competition Accuracy: 38 of 64 (59.38%)
 
-Competition Error: 15.52 points per match
+Competition Error: 15.49 points per match
 
-Last Two Week Accuracy: 6 of 14 (42.86%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 15.35 points per match
+Last Two Week Error: 18.33 points per match
 
 [2026/09/24 - Tasman V Bay of Plenty, 45.0 to 26.0](reviews/2026-09-24-Tasman_V_BayofPlenty)
 
 [2026/09/25 - Auckland V Manawatu, 34.0 to 40.0](reviews/2026-09-25-Auckland_V_Manawatu)
 
-[2026/09/25 - Northland V Counties Manukau, 19.0 to 22.0](reviews/2026-09-25-Northland_V_CountiesManukau)
-
 [2026/09/26 - Canterbury V Southland, 34.0 to 21.0](reviews/2026-09-26-Canterbury_V_Southland)
 
 [2026/09/26 - North Harbour V Otago, 32.0 to 21.0](reviews/2026-09-26-NorthHarbour_V_Otago)
 
-[2026/09/26 - Wellington V Waikato, 10.0 to 34.0](reviews/2026-09-26-Wellington_V_Waikato)
+[2026/09/26 - Northland V Counties Manukau, 19.0 to 22.0](reviews/2026-09-26-Northland_V_CountiesManukau)
 
 [2026/09/27 - Hawke's Bay V Taranaki, 14.0 to 50.0](reviews/2026-09-27-HawkesBay_V_Taranaki)
+
+[2026/09/27 - Wellington V Waikato, 10.0 to 34.0](reviews/2026-09-27-Wellington_V_Waikato)
+
+[2026/10/01 - Otago V Auckland, 45.0 to 42.0](reviews/2026-10-01-Otago_V_Auckland)
 ## Pro D2
 
 
@@ -172,19 +174,19 @@ Last Two Week Error: 15.35 points per match
 
 Competition Accuracy: 29 of 40 (72.5%)
 
-Competition Error: 12.97 points per match
+Competition Error: 12.96 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 9.66 points per match
+Last Two Week Error: 7.74 points per match
+
+[2026/09/25 - Grenoble V Valence Romans Drome Rugby, 20.0 to 17.0](reviews/2026-09-25-Grenoble_V_ValenceRomansDromeRugby)
 
 [2026/09/25 - Provence Rugby V Aurillac, 24.0 to 20.0](reviews/2026-09-25-ProvenceRugby_V_Aurillac)
 
 [2026/09/25 - Soyaux-Angouleme V Agen, 36.0 to 22.0](reviews/2026-09-25-Soyaux-Angouleme_V_Agen)
 
 [2026/09/25 - Oyonnax V USON Nevers, 56.0 to 35.0](reviews/2026-09-25-Oyonnax_V_USONNevers)
-
-[2026/09/25 - Grenoble V Valence Romans Drome Rugby, 20.0 to 17.0](reviews/2026-09-25-Grenoble_V_ValenceRomansDromeRugby)
 
 [2026/09/25 - Dax V Nice, 45.0 to 17.0](reviews/2026-09-25-Dax_V_Nice)
 
@@ -202,9 +204,9 @@ Competition Accuracy: 10 of 14 (71.43%)
 
 Competition Error: 18.08 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 18.08 points per match
+Last Two Week Error: 21.38 points per match
 
 [2026/09/25 - Blackheath V Caldy, 24.0 to 28.0](reviews/2026-09-25-Blackheath_V_Caldy)
 
@@ -230,7 +232,7 @@ Competition Error: 13.28 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 7.36 points per match
+Last Two Week Error: 7.42 points per match
 
 [2026/09/26 - Atlético del Rosario V Newman, 41.0 to 45.0](reviews/2026-09-26-AtleticodelRosario_V_Newman)
 
@@ -252,15 +254,15 @@ Last Two Week Error: 7.36 points per match
 
 Competition Accuracy: 26 of 35 (74.29%)
 
-Competition Error: 11.48 points per match
+Competition Error: 11.49 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 4.89 points per match
-
-[2026/09/25 - Carcassonne V Massy, 12.0 to 23.0](reviews/2026-09-25-Carcassonne_V_Massy)
+Last Two Week Error: 4.9 points per match
 
 [2026/09/25 - Albi V US Bressane, 26.0 to 13.0](reviews/2026-09-25-Albi_V_USBressane)
+
+[2026/09/25 - Carcassonne V Massy, 12.0 to 23.0](reviews/2026-09-25-Carcassonne_V_Massy)
 
 [2026/09/25 - Mont-de-Marsan V Marcq-en-Baroeul, 38.0 to 23.0](reviews/2026-09-25-Mont-de-Marsan_V_Marcq-en-Baroeul)
 
