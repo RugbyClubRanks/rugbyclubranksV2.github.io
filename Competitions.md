@@ -552,7 +552,7 @@ key: page-recents
 ## Nations Championship
 
 
-[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 68.3% 
+[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 74.6% 
 # Top Flight Competitions
 
 ## European Rugby Champions Cup
@@ -614,7 +614,7 @@ key: page-recents
 ## Gallagher Premiership
 
 
-[26/27](comp_files/Gallagher_Premiership_2627) - Prediction Accuracy: 81.1% 
+[26/27](comp_files/Gallagher_Premiership_2627) - Prediction Accuracy: 74.7% 
 
 [25/26](comp_files/Gallagher_Premiership_2526) - Prediction Accuracy: 76.3% 
 
@@ -664,7 +664,7 @@ key: page-recents
 ## Top 14
 
 
-[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 84.1% 
+[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 80.4% 
 
 [25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.3% 
 
@@ -992,7 +992,7 @@ key: page-recents
 
 [2027](comp_files/Elite_1_2027)
 
-[2026](comp_files/Elite_1_2026) - Prediction Accuracy: 63.4% 
+[2026](comp_files/Elite_1_2026) - Prediction Accuracy: 68.8% 
 ## Super Rugby AU
 
 
@@ -1014,7 +1014,7 @@ key: page-recents
 ## Pro D2
 
 
-[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 79.8% 
+[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 81.0% 
 
 [25/26](comp_files/Pro_D2_2526) - Prediction Accuracy: 74.6% 
 
@@ -1178,7 +1178,7 @@ key: page-recents
 ## RFU Championship
 
 
-[26/27](comp_files/RFU_Championship_2627) - Prediction Accuracy: 64.3% 
+[26/27](comp_files/RFU_Championship_2627) - Prediction Accuracy: 75.7% 
 
 [25/26](comp_files/RFU_Championship_2526) - Prediction Accuracy: 72.3% 
 
@@ -1270,7 +1270,7 @@ key: page-recents
 ## Nationale
 
 
-[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 74.7% 
+[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 70.3% 
 
 [25/26](comp_files/Nationale_2526) - Prediction Accuracy: 74.7% 
 
@@ -1312,7 +1312,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 69.2% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 68.1% 
 ## prorugby
 
 
