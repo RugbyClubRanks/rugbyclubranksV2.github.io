@@ -4,14 +4,14 @@ title: Caldy V Ampthill on 2026/10/17
 date: 2026-10-17
 categories: rugby "RFU Championship 26/27" match projection
 ---
-# Caldy V Ampthill on 2026/10/17, 47.0 to 61.0
+# Caldy V Ampthill on 2026/10/17, 45.0 to 59.0
 
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Ampthill to win by 4.74, and Ampthill won by 14.0. That's an absolute error of 9.3 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 59.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Ampthill to win by 4.43, and Ampthill won by 14.0. That's an absolute error of 9.6 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 58.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 108.0. That's an absolute error of 56.5 compared to a six month average of 14.8. This prediction was more accurate than 0.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 104.0. That's an absolute error of 50.5 compared to a six month average of 15.0. This prediction was more accurate than 1.2% of my recent predictions.
 ## Projected Performances - Club Model
 
 
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Ampthill to win by 4.8,  and Ampthill won by 14.0. That's an absolute error of 9.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 46.5% of my recent predictions.
+With the player model, I predicted Ampthill to win by 4.7,  and Ampthill won by 14.0. That's an absolute error of 9.3 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 46.6% of my recent predictions.
 ## Projected Performances - Player Model
 
 
