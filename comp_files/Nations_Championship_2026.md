@@ -1,6 +1,6 @@
 ---
 title: "Nations Championship 2026"
-date: 2026-10-22 6:00:00 -0500
+date: 2026-10-23 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -49,12 +49,12 @@ aside:
 
 | Club     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| France   |         3 |            2.522 |                   48.016 |                           0.258 |                              |                         10.462 |
-| England  |         4 |            2.398 |                   12.179 |                           0.464 |                              |                         10.196 |
-| Ireland  |         3 |            2.27  |                   35.001 |                           0.353 |                              |                          9.571 |
-| Scotland |         4 |            2.102 |                   -0.863 |                           0.561 |                              |                          9.123 |
-| Wales    |         4 |            1.374 |                  -35.632 |                           0.62  |                              |                          6.276 |
-| Italy    |         3 |            1.147 |                  -12.1   |                           0.528 |                              |                          5.25  |
+| France   |         3 |            2.54  |                   49.02  |                           0.243 |                              |                         10.481 |
+| England  |         4 |            2.375 |                   11.316 |                           0.463 |                              |                         10.111 |
+| Ireland  |         3 |            2.296 |                   34.296 |                           0.338 |                              |                          9.642 |
+| Scotland |         4 |            2.118 |                   -0.728 |                           0.551 |                              |                          9.193 |
+| Wales    |         4 |            1.371 |                  -33.815 |                           0.597 |                              |                          6.273 |
+| Italy    |         3 |            1.096 |                  -13.56  |                           0.524 |                              |                          5.066 |
 
 
 
@@ -63,12 +63,12 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| New Zealand  |         3 |            2.042 |                   17.893 |                           0.5   |                              |                          8.832 |
-| South Africa |         3 |            1.771 |                   13.409 |                           0.541 |                              |                          7.799 |
-| Argentina    |         3 |            0.88  |                  -20.764 |                           0.541 |                              |                          4.205 |
-| Australia    |         3 |            0.652 |                  -25.226 |                           0.688 |                              |                          3.426 |
-| Japan        |         3 |            0.432 |                  -37.036 |                           0.554 |                              |                          2.388 |
-| Fiji         |         3 |            0.216 |                  -63.562 |                           0.274 |                              |                          1.208 |
+| New Zealand  |         3 |            2.057 |                   17.787 |                           0.479 |                              |                          8.897 |
+| South Africa |         3 |            1.771 |                   13.085 |                           0.543 |                              |                          7.773 |
+| Argentina    |         3 |            0.889 |                  -20.977 |                           0.514 |                              |                          4.208 |
+| Australia    |         3 |            0.673 |                  -25.325 |                           0.628 |                              |                          3.47  |
+| Japan        |         3 |            0.384 |                  -39.318 |                           0.5   |                              |                          2.158 |
+| Fiji         |         3 |            0.23  |                  -61.864 |                           0.309 |                              |                          1.301 |
 
 
 
@@ -79,12 +79,12 @@ aside:
 
 | Club     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:---------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| France   |        6 |  4.522 |               89.016 |                 1.258 |                  3 |               22.462 |
-| England  |        7 |  4.398 |               60.179 |                 0.464 |                  2 |               20.196 |
-| Scotland |        7 |  4.102 |               10.137 |                 0.561 |                  3 |               20.123 |
-| Ireland  |        6 |  4.27  |               34.001 |                 0.353 |                  2 |               19.571 |
-| Wales    |        7 |  2.374 |              -77.632 |                 0.62  |                  1 |               11.276 |
-| Italy    |        6 |  1.147 |             -106.1   |                 0.528 |                    |                5.25  |
+| France   |        6 |  4.54  |               90.02  |                 1.243 |                  3 |               22.481 |
+| Scotland |        7 |  4.118 |               10.272 |                 0.551 |                  3 |               20.193 |
+| England  |        7 |  4.375 |               59.316 |                 0.463 |                  2 |               20.111 |
+| Ireland  |        6 |  4.296 |               33.296 |                 0.338 |                  2 |               19.642 |
+| Wales    |        7 |  2.371 |              -75.815 |                 0.597 |                  1 |               11.273 |
+| Italy    |        6 |  1.096 |             -107.56  |                 0.524 |                    |                5.066 |
 
 
 
@@ -93,12 +93,12 @@ aside:
 
 | Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| New Zealand  |        6 |  5.042 |               68.893 |                 0.5   |                  3 |               23.832 |
-| South Africa |        6 |  4.771 |               94.409 |                 0.541 |                  3 |               22.799 |
-| Australia    |        6 |  1.652 |                3.774 |                 1.688 |                  3 |               11.426 |
-| Argentina    |        6 |  1.88  |              -22.764 |                 1.541 |                  2 |               11.205 |
-| Japan        |        6 |  1.432 |              -63.036 |                 0.554 |                    |                6.388 |
-| Fiji         |        6 |  0.216 |             -159.562 |                 0.274 |                    |                1.208 |
+| New Zealand  |        6 |  5.057 |               68.787 |                 0.479 |                  3 |               23.897 |
+| South Africa |        6 |  4.771 |               94.085 |                 0.543 |                  3 |               22.773 |
+| Australia    |        6 |  1.673 |                3.675 |                 1.628 |                  3 |               11.47  |
+| Argentina    |        6 |  1.889 |              -22.977 |                 1.514 |                  2 |               11.208 |
+| Japan        |        6 |  1.384 |              -65.318 |                 0.5   |                    |                6.158 |
+| Fiji         |        6 |  0.23  |             -157.864 |                 0.309 |                    |                1.301 |
 
 
 
@@ -107,18 +107,18 @@ aside:
 
 |              | Reach Final   | Win Final   |
 |:-------------|:--------------|:------------|
-| Italy        | 100.0 %       | 77.3 %      |
-| Ireland      | 100.0 %       | 72.8 %      |
-| England      | 100.0 %       | 68.3 %      |
-| Wales        | 100.0 %       | 66.4 %      |
-| Scotland     | 100.0 %       | 65.9 %      |
-| France       | 100.0 %       | 61.7 %      |
-| New Zealand  | 100.0 %       | 52.4 %      |
-| South Africa | 100.0 %       | 49.2 %      |
-| Japan        | 100.0 %       | 30.7 %      |
-| Fiji         | 100.0 %       | 20.9 %      |
-| Argentina    | 100.0 %       | 20.4 %      |
-| Australia    | 100.0 %       | 14.0 %      |
+| Italy        | 100.0 %       | 76.1 %      |
+| Ireland      | 100.0 %       | 71.4 %      |
+| England      | 100.0 %       | 69.4 %      |
+| Wales        | 100.0 %       | 66.6 %      |
+| Scotland     | 100.0 %       | 64.4 %      |
+| France       | 100.0 %       | 62.7 %      |
+| New Zealand  | 100.0 %       | 54.2 %      |
+| South Africa | 100.0 %       | 48.4 %      |
+| Japan        | 100.0 %       | 31.1 %      |
+| Fiji         | 100.0 %       | 22.3 %      |
+| Argentina    | 100.0 %       | 19.3 %      |
+| Australia    | 100.0 %       | 14.1 %      |
 
 
 
@@ -127,7 +127,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 86.6% | 9.7 |
+| Club Level | 75.0% | 9.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -139,7 +139,7 @@ aside:
 ### Ireland V Argentina on 2026/11/06
 
 
-Average Margin: Ireland by 10.3
+Average Margin: Ireland by 10.1
 
 <p float="left">
 <img src="plots/2026-11-06-Ireland_V_Argentina_club_performances.png" width="32%" />
@@ -147,21 +147,10 @@ Average Margin: Ireland by 10.3
 <img src="plots/2026-11-06-Ireland_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
-### France V Fiji on 2026/11/07
-
-
-Average Margin: France by 29.4
-
-<p float="left">
-<img src="plots/2026-11-07-France_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2026-11-07-France_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-07-France_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
 ### Wales V Japan on 2026/11/07
 
 
-Average Margin: Wales by 5.8
+Average Margin: Wales by 6.2
 
 <p float="left">
 <img src="plots/2026-11-07-Wales_V_Japan_club_performances.png" width="32%" />
@@ -169,15 +158,37 @@ Average Margin: Wales by 5.8
 <img src="plots/2026-11-07-Wales_V_Japan_club_spreads.png" width="32%" />
 </p>
 
+### Italy V South Africa on 2026/11/07
+
+
+Average Margin: South Africa by 16.6
+
+<p float="left">
+<img src="plots/2026-11-07-Italy_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2026-11-07-Italy_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-07-Italy_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
 ### Scotland V Nouvelle-Zélande on 2026/11/07
 
 
-Average Margin: Nouvelle-Zélande by 20.6
+Average Margin: Nouvelle-Zélande by 21.8
 
 <p float="left">
 <img src="plots/2026-11-07-Scotland_V_Nouvelle-Zelande_club_performances.png" width="32%" />
 <img src="plots/2026-11-07-Scotland_V_Nouvelle-Zelande_club_resultbar.png" width="32%" />
 <img src="plots/2026-11-07-Scotland_V_Nouvelle-Zelande_club_spreads.png" width="32%" />
+</p>
+
+### France V Fiji on 2026/11/07
+
+
+Average Margin: France by 29.1
+
+<p float="left">
+<img src="plots/2026-11-07-France_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2026-11-07-France_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-07-France_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
 ### Scotland V New Zealand on 2026/11/07
@@ -191,21 +202,10 @@ Average Margin: New Zealand by 4.2
 <img src="plots/2026-11-07-Scotland_V_NewZealand_club_spreads.png" width="32%" />
 </p>
 
-### Italy V South Africa on 2026/11/07
-
-
-Average Margin: South Africa by 16.5
-
-<p float="left">
-<img src="plots/2026-11-07-Italy_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2026-11-07-Italy_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-07-Italy_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
 ### England V Australia on 2026/11/08
 
 
-Average Margin: England by 13.9
+Average Margin: England by 13.3
 
 <p float="left">
 <img src="plots/2026-11-08-England_V_Australia_club_performances.png" width="32%" />
@@ -218,7 +218,7 @@ Average Margin: England by 13.9
 ### France V South Africa on 2026/11/13
 
 
-Average Margin: France by 3.5
+Average Margin: France by 3.8
 
 <p float="left">
 <img src="plots/2026-11-13-France_V_SouthAfrica_club_performances.png" width="32%" />
@@ -226,21 +226,10 @@ Average Margin: France by 3.5
 <img src="plots/2026-11-13-France_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Italy V Argentina on 2026/11/14
-
-
-Average Margin: Argentina by 4.7
-
-<p float="left">
-<img src="plots/2026-11-14-Italy_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2026-11-14-Italy_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-14-Italy_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
 ### Wales V New Zealand on 2026/11/14
 
 
-Average Margin: New Zealand by 12.7
+Average Margin: New Zealand by 12.4
 
 <p float="left">
 <img src="plots/2026-11-14-Wales_V_NewZealand_club_performances.png" width="32%" />
@@ -248,10 +237,21 @@ Average Margin: New Zealand by 12.7
 <img src="plots/2026-11-14-Wales_V_NewZealand_club_spreads.png" width="32%" />
 </p>
 
+### Italy V Argentina on 2026/11/14
+
+
+Average Margin: Argentina by 5.2
+
+<p float="left">
+<img src="plots/2026-11-14-Italy_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2026-11-14-Italy_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-14-Italy_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
 ### England V Japan on 2026/11/14
 
 
-Average Margin: England by 17.4
+Average Margin: England by 17.9
 
 <p float="left">
 <img src="plots/2026-11-14-England_V_Japan_club_performances.png" width="32%" />
@@ -259,21 +259,10 @@ Average Margin: England by 17.4
 <img src="plots/2026-11-14-England_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V Fiji on 2026/11/14
-
-
-Average Margin: Ireland by 25.1
-
-<p float="left">
-<img src="plots/2026-11-14-Ireland_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2026-11-14-Ireland_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-14-Ireland_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
 ### Wales V Nouvelle-Zélande on 2026/11/14
 
 
-Average Margin: Nouvelle-Zélande by 30.0
+Average Margin: Nouvelle-Zélande by 29.7
 
 <p float="left">
 <img src="plots/2026-11-14-Wales_V_Nouvelle-Zelande_club_performances.png" width="32%" />
@@ -281,10 +270,21 @@ Average Margin: Nouvelle-Zélande by 30.0
 <img src="plots/2026-11-14-Wales_V_Nouvelle-Zelande_club_spreads.png" width="32%" />
 </p>
 
+### Ireland V Fiji on 2026/11/14
+
+
+Average Margin: Ireland by 24.4
+
+<p float="left">
+<img src="plots/2026-11-14-Ireland_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2026-11-14-Ireland_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-14-Ireland_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
 ### Scotland V Australia on 2026/11/15
 
 
-Average Margin: Scotland by 10.0
+Average Margin: Scotland by 10.1
 
 <p float="left">
 <img src="plots/2026-11-15-Scotland_V_Australia_club_performances.png" width="32%" />
@@ -294,32 +294,10 @@ Average Margin: Scotland by 10.0
 
 ## Week 6
 
-### Italy V Fiji on 2026/11/21
-
-
-Average Margin: Italy by 9.1
-
-<p float="left">
-<img src="plots/2026-11-21-Italy_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-Italy_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-Italy_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V South Africa on 2026/11/21
-
-
-Average Margin: South Africa by 0.4
-
-<p float="left">
-<img src="plots/2026-11-21-Ireland_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-Ireland_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-Ireland_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
 ### France V Argentina on 2026/11/21
 
 
-Average Margin: France by 15.2
+Average Margin: France by 16.1
 
 <p float="left">
 <img src="plots/2026-11-21-France_V_Argentina_club_performances.png" width="32%" />
@@ -327,43 +305,10 @@ Average Margin: France by 15.2
 <img src="plots/2026-11-21-France_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
-### England V Nouvelle-Zélande on 2026/11/21
-
-
-Average Margin: Nouvelle-Zélande by 18.1
-
-<p float="left">
-<img src="plots/2026-11-21-England_V_Nouvelle-Zelande_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-England_V_Nouvelle-Zelande_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-England_V_Nouvelle-Zelande_club_spreads.png" width="32%" />
-</p>
-
-### England V New Zealand on 2026/11/21
-
-
-Average Margin: New Zealand by 1.0
-
-<p float="left">
-<img src="plots/2026-11-21-England_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-England_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-England_V_NewZealand_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Australia on 2026/11/21
-
-
-Average Margin: Wales by 1.3
-
-<p float="left">
-<img src="plots/2026-11-21-Wales_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-Wales_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-Wales_V_Australia_club_spreads.png" width="32%" />
-</p>
-
 ### Scotland V Japan on 2026/11/21
 
 
-Average Margin: Scotland by 13.9
+Average Margin: Scotland by 15.2
 
 <p float="left">
 <img src="plots/2026-11-21-Scotland_V_Japan_club_performances.png" width="32%" />
@@ -371,12 +316,67 @@ Average Margin: Scotland by 13.9
 <img src="plots/2026-11-21-Scotland_V_Japan_club_spreads.png" width="32%" />
 </p>
 
+### England V New Zealand on 2026/11/21
+
+
+Average Margin: New Zealand by 1.2
+
+<p float="left">
+<img src="plots/2026-11-21-England_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-England_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-England_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Fiji on 2026/11/21
+
+
+Average Margin: Italy by 8.3
+
+<p float="left">
+<img src="plots/2026-11-21-Italy_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Italy_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Italy_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
+### England V Nouvelle-Zélande on 2026/11/21
+
+
+Average Margin: Nouvelle-Zélande by 18.6
+
+<p float="left">
+<img src="plots/2026-11-21-England_V_Nouvelle-Zelande_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-England_V_Nouvelle-Zelande_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-England_V_Nouvelle-Zelande_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V South Africa on 2026/11/21
+
+
+Average Margin: South Africa by 0.3
+
+<p float="left">
+<img src="plots/2026-11-21-Ireland_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Ireland_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Ireland_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Australia on 2026/11/21
+
+
+Average Margin: Wales by 2.0
+
+<p float="left">
+<img src="plots/2026-11-21-Wales_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Wales_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Wales_V_Australia_club_spreads.png" width="32%" />
+</p>
+
 ## Week 7
 
 ### France V South Africa on 2026-11-26
 
 
-Average Margin: France by 3.7
+Average Margin: France by 4.4
 
 <p float="left">
 <img src="plots/2026-11-26-France_V_SouthAfrica_club_performances.png" width="32%" />
@@ -384,32 +384,10 @@ Average Margin: France by 3.7
 <img src="plots/2026-11-26-France_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Italy V Japan on 2026-11-26
-
-
-Average Margin: Italy by 2.9
-
-<p float="left">
-<img src="plots/2026-11-26-Italy_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Italy_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Italy_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Fiji on 2026-11-26
-
-
-Average Margin: Wales by 8.0
-
-<p float="left">
-<img src="plots/2026-11-26-Wales_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Wales_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Wales_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
 ### Italy V Argentina on 2026-11-26
 
 
-Average Margin: Argentina by 4.7
+Average Margin: Argentina by 0.0
 
 <p float="left">
 <img src="plots/2026-11-26-Italy_V_Argentina_club_performances.png" width="32%" />
@@ -417,10 +395,43 @@ Average Margin: Argentina by 4.7
 <img src="plots/2026-11-26-Italy_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
+### Italy V Japan on 2026-11-26
+
+
+Average Margin: Japan by 3.2
+
+<p float="left">
+<img src="plots/2026-11-26-Italy_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Italy_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Italy_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Australia on 2026-11-26
+
+
+Average Margin: Australia by 6.0
+
+<p float="left">
+<img src="plots/2026-11-26-Italy_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Italy_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Italy_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Fiji on 2026-11-26
+
+
+Average Margin: Wales by 12.9
+
+<p float="left">
+<img src="plots/2026-11-26-Wales_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Wales_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Wales_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
 ### Wales V Japan on 2026-11-26
 
 
-Average Margin: Wales by 10.0
+Average Margin: Japan by 6.0
 
 <p float="left">
 <img src="plots/2026-11-26-Wales_V_Japan_club_performances.png" width="32%" />
@@ -428,10 +439,21 @@ Average Margin: Wales by 10.0
 <img src="plots/2026-11-26-Wales_V_Japan_club_spreads.png" width="32%" />
 </p>
 
+### Wales V Argentina on 2026-11-26
+
+
+Average Margin: Argentina by 3.7
+
+<p float="left">
+<img src="plots/2026-11-26-Wales_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Wales_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Wales_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
 ### Wales V Australia on 2026-11-26
 
 
-Average Margin: Australia by 1.4
+Average Margin: Australia by 9.0
 
 <p float="left">
 <img src="plots/2026-11-26-Wales_V_Australia_club_performances.png" width="32%" />
@@ -439,10 +461,21 @@ Average Margin: Australia by 1.4
 <img src="plots/2026-11-26-Wales_V_Australia_club_spreads.png" width="32%" />
 </p>
 
+### Ireland V Japan on 2026-11-26
+
+
+Average Margin: Ireland by 18.2
+
+<p float="left">
+<img src="plots/2026-11-26-Ireland_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Ireland_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Ireland_V_Japan_club_spreads.png" width="32%" />
+</p>
+
 ### Scotland V Japan on 2026-11-26
 
 
-Average Margin: Scotland by 4.0
+Average Margin: Scotland by 16.6
 
 <p float="left">
 <img src="plots/2026-11-26-Scotland_V_Japan_club_performances.png" width="32%" />
@@ -453,7 +486,7 @@ Average Margin: Scotland by 4.0
 ### England V Japan on 2026-11-26
 
 
-Average Margin: England by 14.0
+Average Margin: England by 23.3
 
 <p float="left">
 <img src="plots/2026-11-26-England_V_Japan_club_performances.png" width="32%" />
@@ -461,120 +494,10 @@ Average Margin: England by 14.0
 <img src="plots/2026-11-26-England_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### France V Japan on 2026-11-26
-
-
-Average Margin: France by 12.7
-
-<p float="left">
-<img src="plots/2026-11-26-France_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-France_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-France_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Argentina on 2026-11-26
-
-
-Average Margin: Wales by 12.0
-
-<p float="left">
-<img src="plots/2026-11-26-Wales_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Wales_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Wales_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### France V Argentina on 2026-11-26
-
-
-Average Margin: France by 14.1
-
-<p float="left">
-<img src="plots/2026-11-26-France_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-France_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-France_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Japan on 2026-11-26
-
-
-Average Margin: Ireland by 17.2
-
-<p float="left">
-<img src="plots/2026-11-26-Ireland_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### France V Australia on 2026-11-26
-
-
-Average Margin: France by 17.3
-
-<p float="left">
-<img src="plots/2026-11-26-France_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-France_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-France_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Argentina on 2026-11-26
-
-
-Average Margin: Ireland by 9.7
-
-<p float="left">
-<img src="plots/2026-11-26-Ireland_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Australia on 2026-11-26
-
-
-Average Margin: Scotland by 12.6
-
-<p float="left">
-<img src="plots/2026-11-26-Scotland_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### England V Argentina on 2026-11-26
-
-
-Average Margin: England by 11.1
-
-<p float="left">
-<img src="plots/2026-11-26-England_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-England_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-England_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Australia on 2026-11-26
-
-
-Average Margin: Ireland by 11.2
-
-<p float="left">
-<img src="plots/2026-11-26-Ireland_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Argentina on 2026-11-26
-
-
-Average Margin: Scotland by 12.0
-
-<p float="left">
-<img src="plots/2026-11-26-Scotland_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
 ### England V Australia on 2026-11-26
 
 
-Average Margin: England by 10.0
+Average Margin: England by 15.2
 
 <p float="left">
 <img src="plots/2026-11-26-England_V_Australia_club_performances.png" width="32%" />
@@ -582,21 +505,98 @@ Average Margin: England by 10.0
 <img src="plots/2026-11-26-England_V_Australia_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V New Zealand on 2026-11-26
+### Scotland V Argentina on 2026-11-26
 
 
-Average Margin: New Zealand by 4.5
+Average Margin: Scotland by 8.7
 
 <p float="left">
-<img src="plots/2026-11-26-Scotland_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_NewZealand_club_spreads.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Fiji on 2026-11-26
+
+
+Average Margin: Scotland by 16.0
+
+<p float="left">
+<img src="plots/2026-11-26-Scotland_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Australia on 2026-11-26
+
+
+Average Margin: Ireland by 13.8
+
+<p float="left">
+<img src="plots/2026-11-26-Ireland_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Ireland_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Ireland_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### England V Argentina on 2026-11-26
+
+
+Average Margin: England by 11.4
+
+<p float="left">
+<img src="plots/2026-11-26-England_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-England_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-England_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### France V Australia on 2026-11-26
+
+
+Average Margin: France by 18.8
+
+<p float="left">
+<img src="plots/2026-11-26-France_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-France_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-France_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Wales V South Africa on 2026-11-26
+
+
+Average Margin: South Africa by 12.0
+
+<p float="left">
+<img src="plots/2026-11-26-Wales_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Wales_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Wales_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Australia on 2026-11-26
+
+
+Average Margin: Scotland by 14.0
+
+<p float="left">
+<img src="plots/2026-11-26-Scotland_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### France V Argentina on 2026-11-26
+
+
+Average Margin: France by 25.0
+
+<p float="left">
+<img src="plots/2026-11-26-France_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-France_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-France_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
 ### England V New Zealand on 2026-11-26
 
 
-Average Margin: New Zealand by 0.8
+Average Margin: New Zealand by 1.9
 
 <p float="left">
 <img src="plots/2026-11-26-England_V_NewZealand_club_performances.png" width="32%" />
@@ -607,12 +607,56 @@ Average Margin: New Zealand by 0.8
 ### Ireland V New Zealand on 2026-11-26
 
 
-Average Margin: New Zealand by 1.3
+Average Margin: New Zealand by 4.0
 
 <p float="left">
 <img src="plots/2026-11-26-Ireland_V_NewZealand_club_performances.png" width="32%" />
 <img src="plots/2026-11-26-Ireland_V_NewZealand_club_resultbar.png" width="32%" />
 <img src="plots/2026-11-26-Ireland_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### England V South Africa on 2026-11-26
+
+
+Average Margin: England by 2.3
+
+<p float="left">
+<img src="plots/2026-11-26-England_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-England_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-England_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V South Africa on 2026-11-26
+
+
+Average Margin: South Africa by 2.1
+
+<p float="left">
+<img src="plots/2026-11-26-Scotland_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
+### France V New Zealand on 2026-11-26
+
+
+Average Margin: France by 2.3
+
+<p float="left">
+<img src="plots/2026-11-26-France_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-France_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-France_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V New Zealand on 2026-11-26
+
+
+Average Margin: New Zealand by 4.3
+
+<p float="left">
+<img src="plots/2026-11-26-Scotland_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Scotland_V_NewZealand_club_spreads.png" width="32%" />
 </p>
 
 ### Ireland V South Africa on 2026-11-26
@@ -626,54 +670,21 @@ Average Margin: South Africa by 0.5
 <img src="plots/2026-11-26-Ireland_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V South Africa on 2026-11-26
+### Ireland V Argentina on 2026-11-26
 
 
-Average Margin: South Africa by 2.0
-
-<p float="left">
-<img src="plots/2026-11-26-Scotland_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Scotland_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### England V South Africa on 2026-11-26
-
-
-Average Margin: England by 1.1
+Average Margin: Ireland by 10.1
 
 <p float="left">
-<img src="plots/2026-11-26-England_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-England_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-England_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### France V New Zealand on 2026-11-26
-
-
-Average Margin: France by 1.4
-
-<p float="left">
-<img src="plots/2026-11-26-France_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-France_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-France_V_NewZealand_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Fiji on 2026-11-26
-
-
-Average Margin: Ireland by 17.0
-
-<p float="left">
-<img src="plots/2026-11-26-Ireland_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-26-Ireland_V_Fiji_club_spreads.png" width="32%" />
+<img src="plots/2026-11-26-Ireland_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2026-11-26-Ireland_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-26-Ireland_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
 ### Italy V Fiji on 2026-11-26
 
 
-Average Margin: Italy by 9.4
+Average Margin: Italy by 9.0
 
 <p float="left">
 <img src="plots/2026-11-26-Italy_V_Fiji_club_performances.png" width="32%" />
